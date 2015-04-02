@@ -14,8 +14,8 @@ var defaultValue = function() {
     this.list = [];
 };
 
-var publicKey = '';
-var privateKey = '';
+var publicKey = '9a2b889d80597fe738ec3d075ebfa8b0';
+var privateKey = '7e1488e7fcad6bde49597ed9d48806feac442578';
 
 var HeroSearchStore = assign({}, EventEmitter.prototype, {
     _state: {},
